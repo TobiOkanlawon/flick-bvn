@@ -1,4 +1,4 @@
-package main
+package bvn
 
 type Info struct {
 }
